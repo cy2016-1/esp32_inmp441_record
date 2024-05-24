@@ -5,11 +5,12 @@
 B站视频: https://www.bilibili.com/video/BV1Hi421Q75x/?vd_source=397d948c14b4366cd3081bc1895a5f79
 
 #### 软件架构
-Arduino IDE c语音
+Arduino IDE C语音 MQTT服务器
 
 
 #### 使用说明
 
 1.  用到硬件: esp32-S3-Zero(主控) inmp441(录音模块) MAX9814音频放大器,喇叭
+2.  不会的可以找我: q: 1308137826
 
 ![输入图片说明](1716568005888.jpg)
